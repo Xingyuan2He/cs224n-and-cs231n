@@ -1,0 +1,5 @@
+- 本仓库内容主要包括cs224n与cs231n两门课程的代码solution。其中cs224n是spring2020的版本，国内在B站上可以找到spring2019的Lecture Video。cs231n是2017fall版本，B站上也有对应的Lecture Video。
+- 两门课程的大部分assignment可以都是在本地windows10+CPU的环境中运行。在cs224n的a4与a5任务中，还是强烈建议在GPU环境中运行。（蹭Colab 足够了）
+- 关于两门课程的学习，大部分内容都已经包括在课程官网给出的slides中。其中给出来的Lecture Notes 和一些参考链接强烈建议阅读。
+- http://web.stanford.edu/class/cs224n/index.html#schedule
+- http://cs231n.stanford.edu/
